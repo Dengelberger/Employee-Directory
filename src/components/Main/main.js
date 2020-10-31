@@ -11,30 +11,32 @@ class Main extends Component {
     search: ""
   }
 
+// SORT FUNCTION - NOT REALLY SURE HOW TO FIX THIS TO MAKE IT WORK.
+// handleClick = () => {
+//   this.setState({ employee: this.state.employee.name.sort()})
 
-handleClick = () => {
-  this.setState({ employee: this.state.employee.sort()})
+//   if(sortOrder === "ASC") {
+//     sortOrder = false;
+//   } else {
+//     sortOrder = true;
+//     employee.reverse();
+//   }
+// }
 
-  if(sortOrder === "ASC") {
-    sortOrder = false;
-  } else {
-    sortOrder = true;
-    employee.reverse();
-  }
-}
-
+//EMPLOYEE SEARCH BY EMPLOYEE NAME.
 handleInputChange = event => {
   event.preventDefault();
-
   const { value, name } = event.target
-
-  const filteredEmployees = this.state.employee.filter(empl => empl.includes(this.state.search))
-
+//IF THE SEARCHED FOR NAME HAS AN INDEX OF SOMETHING GREATER THAN -1, THEN THAT NAME IS IN THE DIRECTORY.
+  const filteredEmployees = employee.filter(employee => employee.name.indexOf(value) > -1)
+// SHOW ONLY EMPLOYEES THAT PASS THE ABOVE FILTER.  IF THERE ARE EMPLOYEES THAT DO NOT FIT THE SEARCH THEY SHOULD DROP OUT AND NOT APPEAR.  
   this.setState (
-    { [name]: value }
+  { [name]: value,
+  employee: filteredEmployees }
   );
-};
+  }; 
 
+//RENDER THE SEARCH BAR AND TABLE TO APP.JS WHERE THE WHOLE THING GETS ASSEMBLED.  THE SEARCH BAR PORTION OF THIS CAME FROM THE SEARCHBAR.JS, THE EMPLOYEE CARD CAME FROM THE EMPLOYEE.JS. 
 render () {
   return (
     <>
