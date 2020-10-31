@@ -3,7 +3,7 @@ import "./searchbar.css";
 
 function SearchBar(props) {
   return (
-    <form>
+    <form id="searchbox">
     <div class="form-row">
       <div class="col">
         <input type="search"

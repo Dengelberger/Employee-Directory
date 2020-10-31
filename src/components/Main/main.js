@@ -28,7 +28,7 @@ handleInputChange = event => {
 
   const { value, name } = event.target
 
-  const filteredEmployees = this.state.employee.filter(employee => employee.includes(this.state.search))
+  const filteredEmployees = this.state.employee.filter(empl => empl.includes(this.state.search))
 
   this.setState (
     { [name]: value }
@@ -42,7 +42,7 @@ render () {
     <table class="table">
       <thead>
         <tr>
-          <th scope="col">Icon</th>
+          <th scope="col">Photo</th>
           <th scope="col">Name</th>
           <th scope="col">Rank</th>
           <th scope="col">Phone Number</th>
@@ -51,7 +51,7 @@ render () {
         </tr>
       </thead>
       <tbody>
-        {this.state.employee.map(employee => <EmployeeCard key={employee.id} id={employee.id} name={employee.name} rank={employee.rank} phone={employee.phone} email={employee.email} dob={employee.dob}/>)}
+        {this.state.employee.map(employee => <EmployeeCard key={employee.id} id={employee.id} image={employee.image} name={employee.name} rank={employee.rank} phone={employee.phone} email={employee.email} dob={employee.dob}/>)}
       </tbody>
     </table>
     </>

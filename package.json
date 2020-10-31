@@ -2,12 +2,16 @@
   "name": "practiceapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dengelberger.github.io/Employee-Directory/",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
