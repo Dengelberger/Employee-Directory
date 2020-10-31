@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Benjamin Franklin Pierce",
     "image":
-      "../../public/assets/images/Pierce.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTUxMzI0NDM1NF5BMl5BanBnXkFtZTYwMjQ3NzEz._V1_UX100_CR0,0,100,100_AL_.jpg",
     "rank": "Captain",
     "phone": "(555) 123-4567",
     "email": "hawkeye@mash.gov",
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "BJ Hunnicutt",
     "image":
-      ".public/assets/images/Hunnicutt.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTY3NTU1NzM2N15BMl5BanBnXkFtZTYwNjQ3NzEz._V1_UX100_CR0,0,100,100_AL_.jpg",
     "rank": "Captain",
     "phone": "(393) 667-1178",
     "email": "hunnicutt@mash.gov",
@@ -23,7 +23,7 @@
     "id": 3,
     "name": "Margaret J Houlihan",
     "image":
-    ".public/assets/images/Houlihan.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjA1MzMxNDQ5MV5BMl5BanBnXkFtZTgwMTI2MDY5MDI@._V1_UX100_CR0,0,100,100_AL_.jpg",
     "rank": "Major",
     "phone": "(079) 561-4028",
     "email": "hotlips@mash.gov",
@@ -33,7 +33,7 @@
     "id": 4,
     "name": "Charles Emerson Winchester III",
     "image":
-    ".public/assets/images/Winchester.jpg",
+    "https://m.media-amazon.com/images/M/MV5BOTYyMmQ2N2ItODA5Zi00MTU1LWJjMGUtNTdiZDk5NmY2MmJkXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR24,0,100,100_AL_.jpg",
     "rank": "Major",
     "phone": "(650) 274-2412",
     "email": "winchester@mash.gov",
@@ -43,7 +43,7 @@
     "id": 5,
     "name": "Sherman Tecumseh Potter",
     "image":
-    ".public/assets/images/Potter.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTk4OTc3NzE5MF5BMl5BanBnXkFtZTcwMTc4NDMxNw@@._V1_UX100_CR0,0,100,100_AL_.jpg",
     "rank": "Colonel",
     "phone": "(959) 248-9895",
     "email": "mildred@mash.gov",
@@ -53,7 +53,7 @@
     "id": 6,
     "name": "Walter Eugene O'Reilly",
     "image":
-    ".public/assets/images/Radar.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTk1NDY1ODIyNl5BMl5BanBnXkFtZTYwMTg1NDU2._V1_UX100_CR0,0,100,100_AL_.jpg",
     "rank": "Corporel",
     "phone": "(754) 307-8800",
     "email": "radar@mash.gov",
@@ -63,7 +63,7 @@
     "id": 7,
     "name": "Francis John Patrick Mulcahy",
     "image":
-    ".public/assets/images/Mulchahy.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYjFmYTQ2NTgtMDE5My00NDRhLTk2OGYtODljODdmYmI2N2FiXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR24,0,100,100_AL_.jpg",
     "rank": "Father",
     "phone": "(351) 215-3642",
     "email": "heaven@mash.gov",
@@ -73,7 +73,7 @@
     "id": 8,
     "name": "Maxwell Q. Klinger",
     "image":
-    ".public/assets/images/Klinger.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZjIxMTE1OTItMTcwZS00Y2E4LTlhMmItYzA5ZTdkMzBiNDdlXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR25,0,100,100_AL_.jpg",
     "rank": "Corporel",
     "phone": "(069) 885-2055",
     "email": "toledo@mash.gov",
@@ -83,7 +83,7 @@
     "id": 9,
     "name": "Kealani Kellye",
     "image":
-    ".public/assets/images/Kellye.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZGEzMTU0NjktZTA4YS00NjI1LWI1N2EtYzA5NzgxZjZmZDRlXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR16,0,100,100_AL_.jpg",
     "rank": "First Lieutenant",
     "phone": "(064) 682-7339",
     "email": "kellye@mash.gov",
@@ -93,7 +93,7 @@
     "id": 10,
     "name": "Franklin Delano Marion Burns",
     "image":
-    ".public/assets/images/Burns.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjdkY2NkY2ItMjU0ZS00NWRmLTgxNjUtOTY1NTgzMmI0NWY1XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR24,0,100,100_AL_.jpg",
     "rank": "Major",
     "phone": "(027) 619-3720",
     "email": "burns@mash.gov",
@@ -103,7 +103,7 @@
     "id": 11,
     "name": "John Francis Xavier MacEntyre",
     "image":
-    ".public/assets/images/MacEntyre.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYTNhMjc1OTYtYWM2MC00MWE3LTljMGMtYzZmODgzNmI5ZDVkXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR16,0,100,100_AL_.jpg",
     "rank": "Captain",
     "phone": "(592) 086-7112",
     "email": "trapper@mash.gov",
@@ -112,7 +112,7 @@
     "id": 12,
     "name": "Henry Braymore Blake",
     "image":
-    ".public/assets/images/Blake.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMmUyOTc0ZDktYzNiMy00N2MyLWE4YTktNmM3NDc5ZjZiYjIxXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR16,0,100,100_AL_.jpg",
     "rank": "Lieutenant Colonel",
     "phone": "(625) 259-5513",
     "email": "blake@mash.gov",
@@ -122,7 +122,7 @@
     "id": 13,
     "name": "Luther Wilson Rizzo",
     "image":
-    ".public/assets/images/Rizzo.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYjkyMzIzZGItMWQzMC00NDFjLWFkZGUtYjNkZDQ2Nzk3NGE2XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR25,0,100,100_AL_.jpg",
     "rank": "Sargeant",
     "phone": "(505) 292-9532",
     "email": "motorpool@mash.gov",
@@ -132,7 +132,7 @@
     "id": 14,
     "name": "Oliver Harmon Jones",
     "image":
-    ".public/assets/images/Jones.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjkzZjJiODYtOGY2YS00NzJhLWE1MDItYWI3MjM4ZDJmZTgyXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_UY100_CR16,0,100,100_AL_.jpg",
     "rank": "Captain",
     "phone": "(482) 377-5174",
     "email": "spearchucker@mash.gov",
