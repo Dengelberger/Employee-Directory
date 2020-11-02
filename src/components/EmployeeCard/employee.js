@@ -4,7 +4,7 @@ import "./employee.css";
 function EmployeeCard(props) {
   return (
     <>
-    <tr scope="row">
+    <tr>
         <td>
         <img
           alt={props.name}
