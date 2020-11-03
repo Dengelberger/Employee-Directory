@@ -34,18 +34,29 @@
 
   ## Contributing 
   
-  Thanks to the instructors and fellow classmates for help in completing this application. Here are some screenshots of the deployed app.
+  Thanks to the instructors and fellow classmates for help in completing this application. I used the main characters from the TV show M*A*S*H because it is one of my favorites. Here are some screenshots of the deployed app.
+
+  This is the initial page upon deployment:
 
 ![Deployed page](assets/page-on-load.png)
 
+  This is what the page looks like as a search is started. This one was just the letter P:
+
 ![Begin search with one letter](assets/begin-search-one-letter.png)
+
+  This is what the page looks like upon searching for MacIntyre:
 
 ![Search results MacIntyre](assets/search-results-macintyre.png)
 
+  This is what the page looks like upon searching for Potter:
+
 ![Search results Potter](assets/search-results-potter.png)
+
+  This is what the page looks like on the first click of the Sort button, which returns an ascending sorted list:
 
 ![Sort click ascending](assets/sort-click-ascend.png)
 
+  This is what the page looks like on the second click of the Sort button, which returns a descending sorted list:
 ![Sort click descending](assets/sort-click-descend.png)
 
   ## Tests 
