@@ -36,17 +36,17 @@
   
   Thanks to the instructors and fellow classmates for help in completing this application. Here are some screenshots of the deployed app.
 
-    ![Deployed page](assets/page-on-load.png)
+![Deployed page](assets/page-on-load.png)
 
-    ![Begin search with one letter](assets/begin-search-one-letter.png)
+![Begin search with one letter](assets/begin-search-one-letter.png)
 
-    ![Search results MacIntyre](assets/search-results-macintyre.png)
+![Search results MacIntyre](assets/search-results-macintyre.png)
 
-    ![Search results Potter](assets/search-results-potter.png)
+![Search results Potter](assets/search-results-potter.png)
 
-    ![Sort click ascending](assets/sort-click-ascend.png)
+![Sort click ascending](assets/sort-click-ascend.png)
 
-    ![Sort click descending](assets/sort-click-descend.png)
+![Sort click descending](assets/sort-click-descend.png)
 
   ## Tests 
   
