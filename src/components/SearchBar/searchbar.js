@@ -3,11 +3,11 @@ import "./searchbar.css";
 
 function SearchBar(props) {
   return (
-    <form id="searchbox">
+    <div id="searchbox">
     <div className="form-row">
       <div className="col sm-9">
         <input type="search"
-        onChange={props.handleInputchange}
+        onChange={props.handleInputChange}
         value={props.search} 
         className="form-control" 
         name="search"
@@ -17,12 +17,11 @@ function SearchBar(props) {
       <div className="col sm-3">
         <button type="button"
         onClick={props.sortDirection}
-          value={props.sortASC}
           name="sort">
           Sort</button>
       </div>
     </div>
-    </form>
+    </div>
   );
 };
 
